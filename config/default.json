@@ -1,0 +1,13 @@
+{
+  "server": {
+    "port": 3000
+  },
+  "db": {
+    "port": 5432,
+    "type": "postgres",
+    "database": "questa"
+  },
+  "jwt": {
+    "expiresIn": 30000
+  }
+}
